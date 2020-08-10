@@ -2,7 +2,7 @@
 
 Hello!I'm Apart.
 Nice to meet you!!  
-I'm beginner engineer. I have made Pocketmine-MP plugins ＆more WindowsForm.  
+I'm beginner engineer. I made Pocketmine-MP plugins ＆　more WindowsForm.  
 
 Mysite 📰  
 [Qiitta](https://qiita.com/odakiyutrain)  
