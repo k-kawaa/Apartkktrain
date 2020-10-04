@@ -3,7 +3,8 @@
 Hello!I'm Apart.
 Nice to meet you!!  
 I'm beginner engineer. I made Pocketmine-MP plugins ＆　more WindowsForm.  
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Apartkktrain)
+Mystatus:
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Apartkktrain&count_private=true&theme=dracula)
 
 Mysite 📰  
 [Qiitta](https://qiita.com/odakiyutrain)  
