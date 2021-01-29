@@ -10,4 +10,6 @@ Mysite 📰
 [Qiitta](https://qiita.com/odakiyutrain)  
 [MyJapaneseSite](https://apartkktrain.github.io/)  
 
-post 📪
+## MyWeekStatus
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
