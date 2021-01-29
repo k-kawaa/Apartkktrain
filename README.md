@@ -11,5 +11,5 @@ Mysite 📰
 [MyJapaneseSite](https://apartkktrain.github.io/)  
 
 ## MyWeekStatus
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Apartkktrain)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=apartkktrain)](https://github.com/anuraghazra/github-readme-stats)
 
