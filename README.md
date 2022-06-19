@@ -1,6 +1,10 @@
-### Hi there My profile! 👋
-
-I like PHP and studying Nuxt.js now!!
-
+# Kawa
+Hello World!
 ### My Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apartkktrain&hide=Blade,html,Ruby)](https://github.com/anuraghazra/github-readme-stats) ![Apart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apartkktrain&show_icons=true)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=apartkktrain&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apartkktrain&theme=vue)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apartkktrain&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apartkktrain&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
