@@ -1,8 +1,6 @@
 # Kawa
 Hello World!
 ### My Status
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=k-kawaa&left_color=gray&right_color=blue)
- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-kawaa&theme=vue)
  
  
